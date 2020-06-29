@@ -1,0 +1,3 @@
+[submodule "analysis_libraries_chapter"]
+	path = analysis_libraries_chapter
+	url = https://github.com/giorginolab/analysis_libraries_chapter.git
